@@ -8,7 +8,7 @@ setup(
     description="A utility for handling user input validation and exceptions in Python.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/value-error-exception-handler",  
+    url="https://github.com/thidaskaveesha/value_exception_handler",  
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
