@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="value-error-exception-handler",  
+    name="value_exception_handler",  
     version="0.1.0",  
     author="Thidas Senavirathna",
     author_email="thidaskaveesha@gmail.com",

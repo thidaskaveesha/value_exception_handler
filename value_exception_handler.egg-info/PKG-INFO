@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: value-error-exception-handler
+Name: value_exception_handler
 Version: 0.1.0
 Summary: A utility for handling user input validation and exceptions in Python.
 Home-page: https://github.com/thidaskaveesha/value_exception_handler
